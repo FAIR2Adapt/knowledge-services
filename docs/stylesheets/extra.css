@@ -1,0 +1,31 @@
+:root {
+  --md-primary-fg-color: #008691;
+  --md-primary-fg-color--light: #4db5a6; 
+  --md-primary-fg-color--dark: #005c5a;  
+}
+.wy-nav-top {
+  background-color: #008691 !important;
+}
+.wy-side-nav-search {
+  background-color: #008691 !important;
+}
+.wy-side-nav-search .icon img {
+  display: none; 
+}
+.wy-side-nav-search::before {
+  content: "";
+  display: block;
+  height: 60px;
+  background: url("../images/logo.png") no-repeat center;
+  background-size: contain;
+  margin-bottom: 10px;
+}
+/* Make the header logo bigger */
+.md-header__button.md-logo img {
+  height: 40px;   
+  width: auto;    
+}
+/* Justify all paragraph text */
+.md-content p {
+  text-align: justify;
+}

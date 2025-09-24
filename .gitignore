@@ -1,0 +1,8 @@
+# Ve
+.venv/
+
+# MkDocs generated site folder
+site/
+
+#  Window-specific files
+Thumbs.db 

@@ -1,0 +1,42 @@
+site_name: FAIR2ADAPT Knowledge Services
+theme:
+  name: material
+  logo: images/f2a_logo.png
+  favicon: images/f2a_logo.png
+  palette:
+    scheme: default
+    primary: custom
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Services:
+      - T4.1. FDO Services interfaces for data handling: services/T_4_1_data_handeling.md
+      - T4.2. FDO Services for knowledge synthesis: services/T_4_2_knowledge_synthesis.md
+      - T4.3. Multilingual generative QA in CCA: services/T_4_3_multilingual_generative_qa.md
+      - T4.4. Publishing knowledge Dashboards Services: services/T_4_4_template_guide_dashboard.md
+  - Case Studies:
+      - CS1: case_studies/cs1.md
+      - CS2: case_studies/cs2.md
+      - CS3: case_studies/cs3.md
+      - CS4: case_studies/cs4.md
+      - CS5: case_studies/cs5.md
+      - CS6: case_studies/cs6.md
+
+# Optional: enable an "Edit this page" button that links to GitHub
+extra_css:
+  - stylesheets/extra.css
+
+repo_url: https://github.com/FAIR2Adapt/knowledge-services
+repo_name: GitHub
+edit_uri: edit/main/docs/
+
+# Optional: plugins for search and more
+plugins:
+  - search
+  
