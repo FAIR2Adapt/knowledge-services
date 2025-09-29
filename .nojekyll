@@ -1,4 +1,0 @@
-# Add, commit, and push
-git add .nojekyll
-git commit -m "Disable Jekyll, use MkDocs instead"
-git push origin main
