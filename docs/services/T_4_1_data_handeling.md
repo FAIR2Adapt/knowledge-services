@@ -66,7 +66,7 @@ Layman supports synchronous and asynchronous workflows, with chunked uploads for
 |---------------|------------|-----------------|
 | **Technical Specification** | **Data Format** | Vector (GeoJSON, Shapefile, PostGIS), Raster (GeoTIFF, JPEG2000, PNG, JPEG), Styles (SLD, QGIS Style), Map Compositions (HSLayers). |
 | | **Target User Groups**  | Geospatial data providers, research infrastructures, data managers, and FAIR2ADAPT users requiring spatial data publication and FAIR integration. |
-|  | **API Specification URL** | [Layman REST API Documentation](https://github.com/LayerManager/layman/tree/master#rest-api) |
+|  | **API Specification URL** | [Layman REST API](https://github.com/LayerManager/layman/blob/master/doc/rest.md) |
 | **Data & Resources** | **Data Source(s)** | Data uploaded by users or harvested from connected geospatial databases (e.g., PostGIS). |
 |  | **Interacting with available F2A APIs** | Layman exposes spatial layers and maps to other FAIR2ADAPT services (e.g., ROHub) via OGC CSW/WMS endpoints or custom connectors. Integration enables inclusion of Layman-published resources as FAIR Digital Objects within the FAIR2ADAPT ecosystem. |
 
