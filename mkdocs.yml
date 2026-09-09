@@ -16,17 +16,17 @@ theme:
 nav:
   - Home: index.md
   - Services:
-      - T4.1. FDO Services interfaces for data handling: services/T_4_1_data_handeling.md
-      - T4.2. FDO Services for knowledge synthesis: services/T_4_2_knowledge_synthesis.md
-      - T4.3. Multilingual generative QA in CCA: services/T_4_3_multilingual_generative_qa.md
-      - T4.4. Publishing knowledge Dashboards Services: services/T_4_4_template_guide_dashboard.md
+      - FDO Services Interfaces for Data Handling in CCA: services/T_4_1_data_handeling.md
+      - FDO Services for Knowledge Synthesis in CCA: services/T_4_2_knowledge_synthesis.md
+      - Multilingual Generative Question Answering in CCA: services/T_4_3_multilingual_generative_qa.md
+      - Publishing Knowledge with Customizable Dashboards: services/T_4_4_template_guide_dashboard.md
   - Case Studies:
-      - CS1: case_studies/cs1.md
-      - CS2: case_studies/cs2.md
-      - CS3: case_studies/cs3.md
-      - CS4: case_studies/cs4.md
-      - CS5: case_studies/cs5.md
-      - CS6: case_studies/cs6.md
+      - Case Study 1: case_studies/cs1.md
+      - Case Study 2: case_studies/cs2.md
+      - Case Study 3: case_studies/cs3.md
+      - Case Study 4: case_studies/cs4.md
+      - Case Study 5: case_studies/cs5.md
+      - Case Study 6: case_studies/cs6.md
 
 # Optional: enable an "Edit this page" button that links to GitHub
 extra_css:
